@@ -6,7 +6,6 @@ on:
 jobs:
   Cypress-Test:
    
-  
     name: Build Docker Image
     runs-on: self-hosted 
     steps:  
